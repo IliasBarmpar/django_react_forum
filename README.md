@@ -3,7 +3,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 ## General Info
-A Meetings Planner using Django!
+A Forum using Django and React!
 
 ## Installation
 ```
